@@ -1,9 +1,9 @@
 {
-  "name": "react-boilerplate",
+  "name": "react-redux-book-demo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "repository": "",
+  "repository": "https://github.com/ivan-ha/react-redux-book-demo",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js"
   },
