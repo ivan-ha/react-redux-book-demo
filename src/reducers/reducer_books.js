@@ -1,8 +1,8 @@
 export default function() {
     return [
-        {title: "React"},
-        {title: "Flux"},
-        {title: "Redux"},
-        {title: "Javascript"}
+        {title: "React", pages: 101},
+        {title: "Flux", pages: 89},
+        {title: "Redux", pages: 198},
+        {title: "Javascript", pages: 288}
     ];
 }
